@@ -110,7 +110,7 @@ button::-moz-focus-inner {
 body {
   background: #fff;
   color: #4f5759;
-  font: 100% 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', 'STHeiti', 'WenQuanYi Micro Hei', '微软雅黑', sans-serif;
+  font: 100% 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', 'STHeiti', sans-serif;
   text-rendering: optimizelegibility;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
