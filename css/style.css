@@ -110,7 +110,7 @@ button::-moz-focus-inner {
   src: url("fonts/fontawesome-webfont.eot?#iefix&v=#4.0.3") format("embedded-opentype"), url("fonts/fontawesome-webfont.woff?v=#4.0.3") format("woff"), url("fonts/fontawesome-webfont.ttf?v=#4.0.3") format("truetype"), url("fonts/fontawesome-webfont.svg#fontawesomeregular?v=#4.0.3") format("svg");
 }
 body {
-  background: #fff;
+  background: #cccccc;
   color: #4f5759;
   font: 100% 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', 'STHeiti', sans-serif;
   text-rendering: optimizelegibility;

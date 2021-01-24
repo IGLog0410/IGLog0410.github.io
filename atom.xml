@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IG(B)LOG</title>
+  
+  <subtitle>ほのぼの読書＆プログラミング</subtitle>
+  <link href="https://iglog0410.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://iglog0410.github.io/"/>
+  <updated>2021-01-23T12:54:02.738Z</updated>
+  <id>https://iglog0410.github.io/</id>
+  
+  <author>
+    <name>IGLOG</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自己紹介 &amp; これから書きたいこと</title>
+    <link href="https://iglog0410.github.io/posts/first_post/"/>
+    <id>https://iglog0410.github.io/posts/first_post/</id>
+    <published>2021-01-23T12:07:32.846Z</published>
+    <updated>2021-01-23T12:54:02.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>はじめまして．<br>当ブログにお越しいただいてありがとうございます．<br>僕はIGLOG (いぐろぐ)といいます．</p><a id="more"></a><p>都内の大学の工学部で情報関連の研究をしている大学4年生です．<br></p><p>本を読むのが好きですが，たくさん量を読むというよりも1冊熟読してから色々ぐるぐる考えて，<br>また次に読んで考えてを繰り返す感じのスタイルです．<br></p><p>読むジャンルは特に問わなくて，<br>自分の専門分野の書籍から小説･漫画まで幅広くという感じです．</p><h1 id="これから書きたいこと"><a href="#これから書きたいこと" class="headerlink" title="これから書きたいこと"></a>これから書きたいこと</h1><p>このブログで書いていきたいことは，買った本や読んだ本の紹介･感想が中心で，<br>たまにコードを書いたりしたときの云々を書いていこうと思っています．<br><br></p><p>もし気に入ったところがあれば読んでいただけると幸いです．<br>短いですがここらへんで．</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;はじめまして．&lt;br&gt;当ブログにお越しいただいてありがとうございます．&lt;br&gt;僕はIGLOG (いぐろぐ)といいます．&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="その他" scheme="https://iglog0410.github.io/tags/%E3%81%9D%E3%81%AE%E4%BB%96/"/>
+    
+  </entry>
+  
+</feed>
