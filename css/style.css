@@ -551,10 +551,10 @@ pre .deletion {
   margin: 0;
 }
 .article-devider {
-  width: 8%;
+  width: 20%;
   margin: 5em auto;
   border: 0;
-  border-top: 5px solid #ddd;
+  border-top: 5px solid #4f5759;
 }
 .entry-meta-header {
   position: absolute;
